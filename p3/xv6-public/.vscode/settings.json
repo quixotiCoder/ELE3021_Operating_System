@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "memlayout.h": "c",
+        "mmu.h": "c",
+        "stat.h": "c",
+        "typeinfo": "c",
+        "spinlock.h": "c",
+        "x86.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
